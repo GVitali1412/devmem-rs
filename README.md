@@ -2,6 +2,8 @@
 
 Small Rust library for accessing the physical address space using /dev/mem
 
+[Documentation](https://docs.rs/devmem)
+
 ## Example
 ```rust
 use devmem::Mapping
